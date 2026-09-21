@@ -265,18 +265,39 @@ Therefore, this project is intended for **educational and portfolio purposes onl
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Authors & Contributions
 
-**Fatima Maqbool**
+### **Fatima Maqbool**
 
 🎓 BS Artificial Intelligence
 🏫 The University of Faisalabad
 
-### Connect with Me
+**Contributions:**
 
-**GitHub:** https://github.com/FatimaHussain11
+* Designed and developed the frontend interface
+* Implemented backend functionality and API integration
+* Worked on data preprocessing and dataset preparation
+* Developed and trained deep learning models
+* Conducted system testing and performance evaluation
 
----
+### **Laiba Aamir**
+
+🎓 BS Software Engineering
+🏫 The University of Faisalabad
+
+**Contributions:**
+
+* Designed and refined frontend components and user experience
+* Developed backend modules and connected the prediction pipeline
+* Performed acoustic feature extraction and data analysis
+* Assisted in CNN architecture development and model validation
+* Contributed to testing, optimization, and project documentation
+
+### 🔗 Collaborators
+
+* **Fatima Maqbool** 
+* **Laiba Aamir:** [GitHub Repository](https://github.com/Earwigmoth10/Stuttering-Detection-Using-Deep-CNNs-and-Cepstral-Acoustic-Representations-?utm_source=chatgpt.com)
+
 
 ## ⭐ Support
 
